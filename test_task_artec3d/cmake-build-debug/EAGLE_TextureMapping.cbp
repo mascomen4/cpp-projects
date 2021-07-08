@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="EAGLE_TextureMapping"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EAGLE_TextureMapping">
+				<Option output="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/EAGLE_TextureMapping" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/."/>
+					<Add directory="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/lib"/>
+					<Add directory="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint"/>
+					<Add directory="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/acc"/>
+					<Add directory="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/math"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 EAGLE_TextureMapping"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EAGLE_TextureMapping/fast">
+				<Option output="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/EAGLE_TextureMapping" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/."/>
+					<Add directory="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/lib"/>
+					<Add directory="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint"/>
+					<Add directory="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/acc"/>
+					<Add directory="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/math"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 EAGLE_TextureMapping/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/getalignresults.cpp">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/getalignresults.h">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/lib/Eagle_Utils.cpp">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/lib/Eagle_Utils.h">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/main.cpp">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/acc/acceleration.h">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/acc/bvh_tree.h">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/acc/defines.h">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/acc/kd_tree.h">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/acc/primitives.h">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/math/algo.h">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/math/defines.h">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/rayint/math/vector.h">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/settings.h">
+			<Option target="EAGLE_TextureMapping"/>
+		</Unit>
+		<Unit filename="/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

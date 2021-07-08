@@ -1,0 +1,3 @@
+/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ivan/ivan/git/EAGLE-TextureMapping_modifying/cmake-build-debug/CMakeFiles/EAGLE_TextureMapping.dir
