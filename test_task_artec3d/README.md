@@ -1,3 +1,6 @@
+# Texture mapping implementations.
+The one "Naive" is the naive implementation of texture generation from scans. The more sophisticated algorithm is implemented on top of EAGLE-TextureMapping, which is stated below.
+
 # EAGLE-TextureMapping
 
 This is an attempt for implementation of the paper "Patch-Based Optimization for Image-Based Texture Mapping".
